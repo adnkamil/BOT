@@ -1,0 +1,11 @@
+{
+    "name": "it-bot",
+    "version": "1.0.0",
+    "description": "IT Digital Bot",
+    "main": "bot.js",
+    "author": "Adnan Kamil",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.3.3"
+    }
+}
